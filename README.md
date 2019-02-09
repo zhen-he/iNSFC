@@ -1,6 +1,6 @@
-# iNSFC - 2019 年国家自然基金申请书 LaTeX 模板
+# iNSFC - 2018 年国家自然基金申请书 LaTeX 模板
 
-(本项目 fork 自 https://github.com/YimianDai/iNSFC ，仅作少量修改以适配 2019 版申请书正文)
+(本项目 fork 自 https://github.com/YimianDai/iNSFC ，仅作少量修改以适配 2018 版申请书正文)
 
 ### 更新记录：
 1. 适配 2018 年模板，即调整字数：建议8000字以内
